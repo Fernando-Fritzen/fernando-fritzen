@@ -11,8 +11,8 @@
 
 ##
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernando-fritzen&theme=dark&layout=compact&hide=html" alt="fernando-fritzen" /></p>
-
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernando-fritzen&theme=dark&layout=compact&hide=html" alt="fernando-fritzen" /></p>
+</br>
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=fernando-fritzen&&theme=dark&show_icons=true" alt="fernando-fritzen" /></p>
 
 ##
