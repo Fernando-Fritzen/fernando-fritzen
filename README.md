@@ -1,9 +1,10 @@
-<h1 align="center">Olá 👋, Eu sou Fernando Fritzen</h1>
+<h1 align="center">Olá 👋, Eu sou o Fernando Fritzen</h1>
 
-<h3 align="center">Me chamo Fernando, tenho 19 anos e atualmente estudo ADS/Engenharia de Software, seguindo uma formação como desenvolvedor Full Stack.</h3>
+<!-- <h3 align="center">Me chamo Fernando, tenho 19 anos e atualmente estudo ADS/Engenharia de Software, seguindo uma formação como desenvolvedor Full Stack.</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fernando-fritzen" alt="fernando-fritzen" /> </p>
 
+- 👨‍🎓 Estudando: Engenharia de Software
 - 🌱 Estou aprendendo atualmente Spring Boot e ReactJs
 - 👨‍💻 Meu portfólio https://portfolio-fernando-fritzen.vercel.app
 
@@ -13,9 +14,9 @@
   
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernando-fritzen&layout=compact&hide=html" alt="fernando-fritzen" /></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernando-fritzen&layout=compact&hide=html" alt="fernando-fritzen" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fernando-fritzen&show_icons=true" alt="fernando-fritzen" /></p>
+<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fernando-fritzen&show_icons=true" alt="fernando-fritzen" /></p>
 
 ##
 
